@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewSApp</string>
+
+    <string name="facebook_app_id">187759811821482</string>
+    <string name="fbk_app_id">187759811821482</string>
+    <string name="fb_login_protocol_scheme">fb187759811821482</string>
+
+</resources>
